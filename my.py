@@ -1,8 +1,12 @@
 import streamlit as st
-import nltk
 import spacy
-nltk.download('stopwords')
 spacy.load('en_core_web_sm')
+import nltk
+nltk.download('stopwords')
+nltk.download('wordnet')
+nltk.download('punkt')
+nltk.download('all-corpora')
+
 
 import pandas as pd
 import base64, random
