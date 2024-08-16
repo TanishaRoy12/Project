@@ -11,4 +11,4 @@ youtube-dl
 nltk
 pdfminer3
 spacy>=2.3.5,<4.0.0
-en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.6/en_core_web_sm-2.3.6-py3-none-any.whl
